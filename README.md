@@ -1,9 +1,8 @@
-# Product-Recommendation-System
-Recommendation system built using Memory Based Collaborative Filtering on Amazon Beauty Products Dataset
-
 # Recommender Systems using Collaborative Filtering (Memory-Based)
 
 ## 1. Overview
+Recommendation system built using Memory Based Collaborative Filtering on Amazon Beauty Products Dataset
+
 This notebook demonstrates how to build a **memory-based collaborative filtering** recommender system using explicit user–item ratings.  
 It walks through:
 - Preparing and cleaning ratings data
